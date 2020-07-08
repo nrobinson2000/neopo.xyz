@@ -21,7 +21,7 @@ layout: default
 Universal Installer (Linux/macOS):
 
 ```bash
-$ bash <( curl -sL https://git.io/JfwhJ )
+$ bash <(curl -sL neopo.xyz/install)
 ```
 
 Running from source:

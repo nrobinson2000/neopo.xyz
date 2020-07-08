@@ -8,7 +8,7 @@ Neopo installs quickly, giving you a local Particle development environment fast
 ## Universal installer
 
 ```bash
-$ bash <( curl -sL https://git.io/JfwhJ )
+$ bash <(curl -sL neopo.xyz/install)
 ```
 
 ## Linux
