@@ -28,8 +28,8 @@ Running from source:
 
 ```bash
 $ git clone https://github.com/nrobinson2000/neopo
-$ export PATH="$PATH:$PWD/neopo"
-$ neopo install
+$ cd neopo
+$ bin/neopo install
 ```
 
 For more installation information, please refer to the [Installation tutorial.](tutorials/install.html)
