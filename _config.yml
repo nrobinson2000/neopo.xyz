@@ -7,3 +7,5 @@ particle: "https://community.particle.io/t/neopo-a-lightweight-solution-for-loca
 
 github:
   repository_url: https://github.com/nrobinson2000/neopo
+  owner_url: https://github.com/nrobinson2000
+  owner_name: "Nathan Robinson"
