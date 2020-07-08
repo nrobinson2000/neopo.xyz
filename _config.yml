@@ -1,0 +1,9 @@
+title: neopo
+description: A lightweight solution for local Particle development.
+# show_downloads: true
+# google_analytics:
+theme: jekyll-theme-midnight
+particle: "https://community.particle.io/t/neopo-a-lightweight-solution-for-local-particle-development/56378?u=nrobinson2000"
+
+github:
+  repository_url: https://github.com/nrobinson2000/neopo
