@@ -61,5 +61,5 @@ neopo install
 
 ### Begin using neopo
 
-To get started with neopo, please refer to the [Quick Reference.](quick-docs.html)
+To get started with neopo, please refer to the [Quick Reference.](/docs/quick-docs.html)
 
