@@ -17,7 +17,7 @@ On most Linux distributions the universal installer will correctly install the n
 
 ### Mac
 
-On macOS, the universal installer will work, but unlike on Linux, the tab completion script will not be automatically installed. [To install tab completion manually, follow these steps.](../full-docs#tab-completion)
+On macOS, the universal installer will work, but unlike on Linux, the tab completion script will not be automatically installed. [To install tab completion manually, follow these steps.](/docs/full-docs#tab-completion)
 
 ### Windows
 
