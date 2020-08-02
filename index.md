@@ -34,6 +34,8 @@ $ bin/neopo install
 
 For more installation information, please refer to the [Installation tutorial.](tutorials/install.html)
 
+<script id="asciicast-351102" src="https://asciinema.org/a/351102.js" async></script>
+
 ## Usage
 
 To get started with neopo, please refer to the [Quick Reference.](docs/quick-docs.html)
