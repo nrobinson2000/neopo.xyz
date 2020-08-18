@@ -163,7 +163,32 @@ Examples:
 
 ```bash
 neopo flags "-D FLAG_ONE=abc -D FLAG_TWO=123"
+
 neopo flags "-D DEBUG_ENABLED" myProject
+```
+
+### settings
+
+View configured settings for a project. The device platform, deviceOS version, and `EXTRA_CFLAGS` will be printed out.
+
+Examples:
+
+```bash
+neopo settings
+
+neopo settings myProject
+```
+
+### libs
+
+Verify or install the specified Particle libraries in `project.properties` for a project. This command is useful when working with a project that uses the cloud compiler because this allows you to quickly download the same libraries locally in a project.
+
+Examples:
+
+```bash
+neopo libs
+
+neopo libs myProject
 ```
 
 ### iterate
