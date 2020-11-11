@@ -11,6 +11,12 @@ Neopo installs quickly, giving you a local Particle development environment fast
 $ bash <(curl -sL neopo.xyz/install)
 ```
 
+Install from [AUR](https://aur.archlinux.org/packages/neopo-git/):
+
+```bash
+$ yay -S neopo-git
+```
+
 ### Linux
 
 On most Linux distributions the universal installer will correctly install the necessary dependencies with your package manager and install neopo and its dependencies.
@@ -23,12 +29,12 @@ On macOS, the universal installer will work, but unlike on Linux, the tab comple
 
 On Windows, the universal installer will not work, but neopo can be installed manually using Cygwin. [Please follow the steps here.](windows.html)
 
-### Running from source
+Install from source (pip):
 
 ```bash
 $ git clone https://github.com/nrobinson2000/neopo
 $ cd neopo
-$ bin/neopo install
+$ sudo python3 -m pip install .
 ```
 
 ### Uninstalling
