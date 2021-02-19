@@ -41,6 +41,13 @@ $ sudo python3 -m pip install .
 $ neopo install
 ```
 
+Docker container:
+
+```bash
+$ docker pull nrobinson2000/neopo
+$ docker run -it nrobinson2000/neopo
+```
+
 For more installation information, please refer to the [Installation tutorial.](tutorials/install.html)
 
 <script id="asciicast-351102" src="https://asciinema.org/a/351102.js" async></script>
