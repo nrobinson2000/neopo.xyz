@@ -5,7 +5,6 @@ layout: default
 [![Build Status](https://travis-ci.org/nrobinson2000/neopo.svg?branch=master)](https://travis-ci.org/nrobinson2000/neopo)
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/nrobinson2000/neopo)](https://hub.docker.com/r/nrobinson2000/neopo)
 [![AUR package](https://repology.org/badge/version-for-repo/aur/neopo.svg)](https://aur.archlinux.org/packages/neopo-git/)
-[![Particle Community](https://img.shields.io/badge/particle-community-informational)](https://community.particle.io/t/neopo-a-lightweight-solution-for-local-particle-development/56378?u=nrobinson2000)
 
 ![Neopo Screenshot](assets/images/neopo-carbon.png)
 
