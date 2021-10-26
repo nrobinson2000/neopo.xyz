@@ -11,5 +11,7 @@ title: "Neopo Documentation"
 
 ### [Neopo man page PDF](neopo.pdf)
 
-*I try regularly update the man page to reflect latest changes.
-The reference pages are slightly outdated*
+___
+
+*I try to regularly update the man page to reflect latest changes.
+The reference pages are slightly outdated.*
