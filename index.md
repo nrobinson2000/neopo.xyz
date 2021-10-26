@@ -57,3 +57,6 @@ For more installation information, please refer to the [Installation tutorial.](
 To get started with neopo, please refer to the [Quick Reference.](docs/quick-docs.html)
 
 For descriptions of all available commands, please refer to the [Complete Reference.](docs/full-docs.html)
+
+For classical documentation, the neopo man page is available online in
+[HTML](docs/neopo.html) and [PDF](docs/neopo.pdf) format.
