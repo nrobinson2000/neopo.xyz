@@ -7,6 +7,9 @@ title: "Neopo Documentation"
 
 ### [Neopo Quick Reference](quick-docs.html)
 
-### [Neopo manpage HTML](neopo.html)
+### [Neopo man page HTML](neopo.html)
 
-### [Neopo manpage PDF](neopo.pdf)
+### [Neopo man page PDF](neopo.pdf)
+
+*I try regularly update the man page to reflect latest changes.
+The reference pages are slightly outdated*
